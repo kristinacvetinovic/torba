@@ -3,17 +3,14 @@
         {
             "id": 1,
             "cena": "280",
-	    "tip":"Pozlacen lanac"
         },
         {
             "id": 2,
             "cena": "200",
-	    "tip":"Prosrebren lanac"
         },
 	{
             "id": 3,
             "cena": "110",
- 	    "tip":"Lanac od celika"
         }
 	]
 }
